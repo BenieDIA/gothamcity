@@ -1,27 +1,46 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
 
 html {
-    font-size: 62.5%; /* Taille de base pour la racine */
-  }
-  
-  body {
+  font-size: 62.5%;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  /* Taille de base pour la racine */
+}
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
 
-    font: 1.6rem "Roboto Slab",sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    letter-spacing: 0.1rem; /*espacement entre les lettres*/
-  }
-  
-  /* Titres */
-  h1, 
-  h2, 
-  h3, 
-  h4, 
-  h5,
-  h6,
-  p,
-  figure,blockquote,ol,ul{
-    margin: 0;
-    
-  }
-   
+body {
+
+  font: 1.6rem "Roboto Slab", sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  letter-spacing: 0.1rem;
+  font-weight: 200;
+  /*espacement entre les lettres*/
+}
+
+/* Titres */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+figure,
+blockquote,
+ol,
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+
+}
+a{
+  text-decoration: none;
+}
