@@ -21,6 +21,7 @@ body {
   margin: 0;
   letter-spacing: 0.1rem;
   font-weight: 200;
+
   /*espacement entre les lettres*/
 }
 
@@ -39,6 +40,7 @@ ul {
   margin: 0;
   padding: 0;
   list-style-type: none;
+  
 
 }
 a{
