@@ -58,7 +58,10 @@ body{
     background-image: url(https://i.pinimg.com/originals/6c/6c/27/6c6c277c293e74ba4d0695d2251d499f.jpg);
     background-position: center;
     background-size: fixed;
+    visibility: initial;
+    animation: backwards;
+    border: rgb(196, 43, 43) ;
 
-    
-    
+
+
 }
