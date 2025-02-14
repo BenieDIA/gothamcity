@@ -4,7 +4,7 @@
 
 ![New york](asset/vue-aerienne-new-york-city-manhattan-skyline_649448-3440.webp)
 
-> &copy;  [Giuseppe Militello](https://www.linkedin.com/in/giuseppe-militello-22406ab0/) - All rights reserved for educational purposes only
+> &copy;   - All rights reserved for educational purposes only
 
 
 
